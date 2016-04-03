@@ -32,7 +32,7 @@ Move your cursor to the property you want to generate lazy instantiation.
 ### In Xcode
 
 ```
-Xcode -> Edit -> DCLazyInstantiate 
+Xcode -> Edit -> DCLazyInstantiate
 ```
 
 ### DCLazyInstantiate Shortcut (default)
@@ -48,3 +48,5 @@ You can change the shortcut in Settings, `Xcode -> Edit -> DCLazyInstantiate -> 
 1. Mutiselect property support.
 2. Customizing code style.
 3. Insert instantiation in specific prama mark section.
+4. auto add property to self.view
+5. auto add constraint
