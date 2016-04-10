@@ -18,5 +18,8 @@ static DCLazyInstantiate *sharedPlugin;
 AS_SINGLETON( DCLazyInstantiate );
 
 - (id)initWithBundle:(NSBundle *)plugin;
+@property (nonatomic,strong) NSBundle *bundel;
+
+
 
 @end
